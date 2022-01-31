@@ -1,1 +1,1 @@
-# Read-access-and-display-digital-image in scilab
+# Read-access-and-display-digital-image in image processing using scilab 
